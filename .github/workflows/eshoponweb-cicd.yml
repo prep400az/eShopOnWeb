@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-fersa
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/96018d87-baff-4dbf-a536-d48c9fa072c1
+  SUBSCRIPTION-ID: 96018d87-baff-4dbf-a536-d48c9fa072c1
   WEBAPP-NAME: az400-webapp-fersalasmx
 
 
